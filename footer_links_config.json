@@ -4,11 +4,11 @@
     "links": [
       {
         "text": "Documentation",
-        "url": "https://docs.base.org/"
+        "url": "https://docs.versatus.io/"
       },
       {
         "text": "GitHub",
-        "url": "https://github.com/base-org"
+        "url": "https://github.com/versatus"
       }
     ]
   },
@@ -17,46 +17,29 @@
     "links": [
       {
         "text": "Twitter",
-        "url": "https://twitter.com/buildonbase"
+        "url": "https://x.com/versatuslabs"
       },
       {
         "text": "Discord",
-        "url": "https://base.org/discord"
+        "url": "https://discord.gg/2MaKFR35VJ"
       },
       {
-        "text": "Blog",
-        "url": "https://base.mirror.xyz/"
-      }
+        "text": "Telegram",
+        "url": "https://t.me/+4nJPCLdzGOUyMDQx"
+      },
     ]
   },
   {
-    "title": "About Base",
+    "title": "About Versatus",
     "links": [
       {
-        "text": "About",
-        "url": "https://base.org/about"
+        "text": "Website",
+        "url": "https://versatus.io/"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://versatus.io/faq"
       }
     ]
   },
-   {
-    "title": "Partners",
-    "links": [
-      {
-        "text": "MetaDock",
-        "url": "https://blocksec.com/metadock"
-      },
-      {
-        "text": "Sourcify",
-        "url": "https://sourcify.dev/"
-      },
-      {
-        "text": "DRPC",
-        "url": "https://drpc.org?ref=559183"
-      },
-      {
-        "text": "BlockSec",
-        "url": "https://blocksec.com/"
-      }
-    ]
-  }
 ]
